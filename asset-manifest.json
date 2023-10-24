@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.061cc75a.css",
+    "main.js": "/static/js/main.687febd2.js",
+    "static/media/pkTitle.png": "/static/media/pkTitle.3d28b176b93967f55cab.png",
+    "static/media/about-sec-img.png": "/static/media/about-sec-img.a9f942d94128cc984c7f.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/IndexWebtoon.jpg": "/static/media/IndexWebtoon.93a4c3811d1f4f7a48bf.jpg",
+    "static/media/myFace.jpg": "/static/media/myFace.51adc2b11bd8ec79c9a3.jpg",
+    "static/media/canon.jpg": "/static/media/canon.2f5a8613b1bc9360e43a.jpg",
+    "static/media/beforeMysite.jpg": "/static/media/beforeMysite.e47b0f48c0047a9046d6.jpg",
+    "static/media/pachinko.jpg": "/static/media/pachinko.645830493e660bf015df.jpg",
+    "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/diary.png": "/static/media/diary.1a17dc455c7d4b605f65.png",
+    "static/media/comingsoon.jpg": "/static/media/comingsoon.3fe279bae84c87776d2c.jpg",
+    "static/media/projectImg.png": "/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/index.html",
+    "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
+    "static/media/social-media-arrow.svg": "/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
+    "main.061cc75a.css.map": "/static/css/main.061cc75a.css.map",
+    "main.687febd2.js.map": "/static/js/main.687febd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061cc75a.css",
+    "static/js/main.687febd2.js"
+  ]
+}
